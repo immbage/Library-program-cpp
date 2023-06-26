@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1632401800 source:c:\kuliah\test\testing library program 6\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<iostream>
+
